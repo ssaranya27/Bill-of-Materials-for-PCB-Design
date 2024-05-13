@@ -59,7 +59,8 @@ During the product life, components may fail needing repair or upgrade. Here the
 
 # Circuit Diagram
 
-![Uploading Screenshot 2024-04-24 105558.png…]()
+![Screenshot 2024-05-13 093348](https://github.com/ssaranya27/Bill-of-Materials-for-PCB-Design/assets/148853824/5d6eb37e-2c72-4127-bf90-1e6f3917b3ff)
+
 
 
 
